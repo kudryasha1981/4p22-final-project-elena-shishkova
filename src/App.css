@@ -1,15 +1,14 @@
 
-
 .App-main-header {
-  display: flex;
-  justify-content: center;
+	display: flex;
+	justify-content: center;
 }
 
 .App-container {
-  display: flex;
-  padding: 20px 40px;
-  gap: 20px;
-  flex-wrap: wrap;
-  font-size: 12px;
+	display: flex;
+	padding: 20px 40px;
+	gap: 20px;
+	flex-wrap: wrap;
+	font-size: 12px;
 }
 

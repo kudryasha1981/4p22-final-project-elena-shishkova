@@ -1,24 +1,24 @@
-@media screen and (min-width: 320px) and (max-width: 768px){
+@media screen and (min-width: 320px) and (max-width: 768px) {
 
-.HeadingContacts {
-    margin-top: calc(100/768*100vw);
+	.HeadingContacts {
+		margin-top: calc(100 / 768 * 100vw);
+	}
+
 }
 
+@media screen and (min-width: 769px) and (max-width: 1440px) {
+
+	.HeadingContacts {
+		margin-top: calc(100 / 1440 * 100vw);
+	}
+
 }
 
-@media screen and (min-width: 769px) and (max-width: 1440px){
+@media screen and (min-width: 1440px) {
 
-    .HeadingContacts {
-        margin-top: calc(100/1440*100vw);
-    }
-    
-}
+	.HeadingContacts {
+		margin-top: calc(100 / 1440 * 100vw);
+	}
 
-@media screen and (min-width: 1440px){
-
-    .HeadingContacts {
-        margin-top: calc(100/1440*100vw);
-    }
-    
 }
 

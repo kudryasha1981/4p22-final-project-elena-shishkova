@@ -1,92 +1,87 @@
 .Header {
-    background: rgb(208, 208, 208);
-    width: 100%;
-    height: 80px;
-    display: flex;
-    justify-content: space-around;
+	background: rgb(208, 208, 208);
+	width: 100%;
+	height: 80px;
+	display: flex;
+	justify-content: space-around;
 
-    
+
 }
 
 .Header h1 {
-    margin: auto;
-    font-size: 30px;
+	margin: auto;
+	font-size: 30px;
 
 }
 
 .ContactsClass {
-    margin: auto;
-    font-size: 20px;
-    font-weight: bold;
-    
-}
-
-
-
-
-
-@media screen and (min-width: 320px) and (max-width: 768px){
-    .Header {
-        height: calc(80/768*100vw);
-    }
-
-    .ContactsClass {
-        font-size: calc(20/768*100vw);
-    }
-
-    .Header h1 {
-        font-size: calc(30/768*100vw);
-    }
-
-    .SearchInput {
-        margin-top: calc(25/768*100vw);
-        height: calc(26/768*100vw);
-        width: calc(250/768*100vw);
-    }
-
-    
-
-    
-}
-
-@media screen and (min-width: 769px) and (max-width: 1440px){
-    .Header {
-        height: calc(80/1440*100vw);
-    }
-
-    .ContactsClass {
-        font-size: calc(20/1440*100vw);
-    }
-
-    .Header h1 {
-        font-size: calc(30/1440*100vw);
-    }
-
-    .SearchInput {
-        margin-top: calc(25/1440*100vw);
-        height: calc(26/1440*100vw);
-        width: calc(250/1440*100vw);
-    }
+	margin: auto;
+	font-size: 20px;
+	font-weight: bold;
 
 }
 
-@media screen and (min-width: 1440px){
-    .Header {
-        height: calc(80/1440*100vw);
-    }
 
-    .ContactsClass {
-        font-size: calc(20/1440*100vw);
-    }
+@media screen and (min-width: 320px) and (max-width: 768px) {
+	.Header {
+		height: calc(80 / 768 * 100vw);
+	}
 
-    .Header h1 {
-        font-size: calc(30/1440*100vw);
-    }
+	.ContactsClass {
+		font-size: calc(20 / 768 * 100vw);
+	}
 
-    .SearchInput {
-        margin-top: calc(25/1440*100vw);
-        height: calc(26/1440*100vw);
-        width: calc(250/1440*100vw);
-    }
+	.Header h1 {
+		font-size: calc(30 / 768 * 100vw);
+	}
+
+	.SearchInput {
+		margin-top: calc(25 / 768 * 100vw);
+		height: calc(26 / 768 * 100vw);
+		width: calc(250 / 768 * 100vw);
+	}
+
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 1440px) {
+	.Header {
+		height: calc(80 / 1440 * 100vw);
+	}
+
+	.ContactsClass {
+		font-size: calc(20 / 1440 * 100vw);
+	}
+
+	.Header h1 {
+		font-size: calc(30 / 1440 * 100vw);
+	}
+
+	.SearchInput {
+		margin-top: calc(25 / 1440 * 100vw);
+		height: calc(26 / 1440 * 100vw);
+		width: calc(250 / 1440 * 100vw);
+	}
+
+}
+
+@media screen and (min-width: 1440px) {
+	.Header {
+		height: calc(80 / 1440 * 100vw);
+	}
+
+	.ContactsClass {
+		font-size: calc(20 / 1440 * 100vw);
+	}
+
+	.Header h1 {
+		font-size: calc(30 / 1440 * 100vw);
+	}
+
+	.SearchInput {
+		margin-top: calc(25 / 1440 * 100vw);
+		height: calc(26 / 1440 * 100vw);
+		width: calc(250 / 1440 * 100vw);
+	}
 
 }

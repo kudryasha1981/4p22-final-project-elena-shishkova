@@ -1,23 +1,23 @@
 .CommonButton {
-    outline: none;
-    border: none;
-    background: black;
-    padding: 8px 30px;
-    margin-bottom: 30px;
-    color: white;
-    border-radius: 0;
-    transition: .2s background-color;
-    cursor: pointer;
+	outline: none;
+	border: none;
+	background: black;
+	padding: 8px 30px;
+	margin-bottom: 30px;
+	color: white;
+	border-radius: 0;
+	transition: .2s background-color;
+	cursor: pointer;
 }
 
 .CommonButton:hover {
-    background: rgb(166, 165, 175);
+	background: rgb(166, 165, 175);
 }
 
-@media screen and (min-width: 320px) and (max-width: 768px){
-    Button {
-        width: calc(50/768*100vw);
-        height: calc(25/768*100vw);
-    }
+@media screen and (min-width: 320px) and (max-width: 768px) {
+	Button {
+		width: calc(50 / 768 * 100vw);
+		height: calc(25 / 768 * 100vw);
+	}
 }
 

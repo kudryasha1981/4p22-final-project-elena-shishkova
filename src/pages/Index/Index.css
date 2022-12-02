@@ -1,9 +1,9 @@
 .Index-container {
-    display: flex;
-    padding: 20px 40px;
-    margin-top: 80px;
-    gap: 20px;
-    flex-wrap: wrap;
-    font-size: 12px;
+	display: flex;
+	padding: 20px 40px;
+	margin-top: 80px;
+	gap: 20px;
+	flex-wrap: wrap;
+	font-size: 12px;
 }
 
