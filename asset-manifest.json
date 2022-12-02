@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/4p22-final-project-elena-shishkova/static/css/main.073c9b0a.css",
-    "main.js": "/4p22-final-project-elena-shishkova/static/js/main.b08135e9.js",
+    "main.css": "/4p22-final-project-elena-shishkova/static/css/main.a103d15f.css",
+    "main.js": "/4p22-final-project-elena-shishkova/static/js/main.38103709.js",
     "static/js/787.2aa5ce23.chunk.js": "/4p22-final-project-elena-shishkova/static/js/787.2aa5ce23.chunk.js",
-    "static/media/logo.svg": "/4p22-final-project-elena-shishkova/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/4p22-final-project-elena-shishkova/index.html",
-    "main.073c9b0a.css.map": "/4p22-final-project-elena-shishkova/static/css/main.073c9b0a.css.map",
-    "main.b08135e9.js.map": "/4p22-final-project-elena-shishkova/static/js/main.b08135e9.js.map",
+    "main.a103d15f.css.map": "/4p22-final-project-elena-shishkova/static/css/main.a103d15f.css.map",
+    "main.38103709.js.map": "/4p22-final-project-elena-shishkova/static/js/main.38103709.js.map",
     "787.2aa5ce23.chunk.js.map": "/4p22-final-project-elena-shishkova/static/js/787.2aa5ce23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b08135e9.js"
+    "static/css/main.a103d15f.css",
+    "static/js/main.38103709.js"
   ]
 }
